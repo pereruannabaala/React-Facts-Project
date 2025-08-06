@@ -9,8 +9,8 @@ This is a simple React project built to display fun facts about React. It's a be
 - Uses Vite for fast development and hot reloading
 
 ## Project Structure 
-
-INITIAL-PROJECT-SETUP/
+```
+REACT-FACTS-PROJECT/
 ├── node_modules/
 ├── public/
 ├── src/
@@ -30,7 +30,7 @@ INITIAL-PROJECT-SETUP/
 ├── package.json
 ├── README.md
 └── vite.config.js
-
+```
 
 ## Installation & Running
 
